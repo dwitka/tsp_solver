@@ -14,19 +14,24 @@ In Idle:
 file->open (main.py)->run
 
 In Idle from the prompts:
->>> import os
->>> os.popen('python main.py')
+\>\>\> import os
+\>\>\> os.popen('python main.py')
 
 
 
 What the files do:
 ---------------------------------------------------------------
 
-main.py: runs the program
+main.py: 
+	runs the program
 
-TSPMap.py: The algorithm focuses on preventing lines from crossing and by focusing on reducing total calculations. This is done by using various geometric functions.
+TSPMap.py: 
+	The algorithm focuses on preventing lines from crossing and by focusing on reducing total calculations. This is done by using various geometric functions.
             
-tspturtle.py: Uses turtle to display the output graphically.
+tspturtle.py: 
+	Uses turtle to display the output graphically.
 
-matrix.py: Solves a 2 by 3 matrix.
+matrix.py: 
+	Solves a 2 by 3 matrix.
+
 ---------------------------------------------------------------
