@@ -26,8 +26,7 @@ main.py:<br />
 	runs the program
 
 TSPMap.py:<br />
-	The algorithm focuses on preventing lines from crossing\n and by focusing on reducing total calculations. This is done \n
-by using various geometric functions.
+	The algorithm focuses on preventing lines from crossing and <br /> by focusing on reducing total calculations. This is done <br /> by using various geometric functions.
             
 tspturtle.py:<br />
 	Uses turtle to display the output graphically.
