@@ -7,14 +7,14 @@ Text files have been included -containing coordinate data- so you can test diffe
 
 Also change the path to the text file to match the path on your computer where the text file resides.
 
-To get the module running in bash:\n
+To get the module running in bash:<br />
 $ python main.py
 
-In Idle:\n
+In Idle:<br />
 file->open (main.py)->run
 
-In Idle from the prompts:\n
-\>\>\> import os\n
+In Idle from the prompts:<br />
+\>\>\> import os<br />
 \>\>\> os.popen('python main.py')
 
 
@@ -22,17 +22,17 @@ In Idle from the prompts:\n
 What the files do:
 ---------------------------------------------------------------
 
-main.py:\n
+main.py:<br />
 	runs the program
 
-TSPMap.py:\n
+TSPMap.py:<br />
 	The algorithm focuses on preventing lines from crossing\n and by focusing on reducing total calculations. This is done \n
 by using various geometric functions.
             
-tspturtle.py:\n
+tspturtle.py:<br />
 	Uses turtle to display the output graphically.
 
-matrix.py:\n
+matrix.py:<br />
 	Solves a 2 by 3 matrix.
 
 ---------------------------------------------------------------
