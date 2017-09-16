@@ -12,7 +12,9 @@ $ python main.py
 ```
 
 In Idle:<br />
+```
 file->open (main.py)->run
+```
 
 In Idle from the prompts:<br />
 ```idle
